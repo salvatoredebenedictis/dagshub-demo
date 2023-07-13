@@ -1,5 +1,4 @@
 pandas
-sklearn
 scikit-learn
 scipy
 dvc <= 2.58.2
