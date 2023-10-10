@@ -2,4 +2,5 @@ pandas
 scikit-learn
 scipy
 dvc <= 2.58.2
+dvc-s3
 mlflow
